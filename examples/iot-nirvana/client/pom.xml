@@ -47,7 +47,7 @@
   </licenses>
 
   <properties>
-    <commons.codec.version>1.9</commons.codec.version>
+    <commons.codec.version>1.13</commons.codec.version>
     <commons.cli.version>1.4</commons.cli.version>
     <google.api.services.cloudiot.version>v1-rev17-1.23.0</google.api.services.cloudiot.version>
     <google.cloud.logging>1.15.0</google.cloud.logging>
