@@ -1,3 +1,5 @@
 apache-airflow>=1.9.0
 apache-beam>=2.4.0
 tzlocal>=1.5.1
+
+httplib2>=0.18.0 # not directly required, pinned by Snyk to avoid a vulnerability
